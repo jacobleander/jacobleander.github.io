@@ -10,13 +10,11 @@ Get updates on new publications by following me on <a href="https://scholar.goog
 <br>
 
 <b><font color="black"><h3>Working papers</h3></font></b>
-<li><b>Leander, J.</b>, Almquist, J., Johnning, A., Larsson, J., Jirstrand, M. (2020). <a href="https://arxiv.org/abs/2011.06879">Adaptive MCMC for synthetic likelihoods and correlated synthetic likelihoods</a>
+<li><b>Leander, J.</b>, Almquist, J., Johnning, A., Larsson, J., Jirstrand, M. (2020). <a href="https://arxiv.org/abs/2011.06879">NLMEModeling: A Wolfram Mathematica Package for Nonlinear Mixed Effects Modeling of Dynamical Systems</a>
 
 <b><font color="black"><h3>Peer-reviewed articles</h3></font></b>
 <li>Rekić, D., Johansson, S., <b>Leander, J.</b> (2020). <a href="https://doi.org/10.1007/s40262-020-00943-6">Higher Febuxostat Exposure Observed in Asian Compared with Caucasian Subjects Independent of Bodyweight</a>, <i>Clinical Pharmacokinetics</i><br>  
 <li>Almquist, J. Sadiq, M.W., Eriksson, U.G., Hegelund-Myrbäck, T., Prothon, S., <b>Leander, J.</b> (2020). <a href="https://doi.org/10.1002/psp4.12536">Estimation of equipotent doses for anti-inflammatory effects of prednisolone and AZD9567, an oral selective non‐steroidal glucocorticoid receptor modulator</a>, <i>CPT: Pharmacometrics & Systems Pharmacology</i>, 9(8), 444-455<br>  
 <li>Hegelund-Myrbäck, T., Prothon, S., Edman, K., <b>Leander, J.</b>, Hashemi, M., Dearman, M., Edenro, G., Svanberg, P., Andersson, E-M., Almquist, J., Ämmälä, C., Hendrickx, R., Taib, Z., Johansson, K, Berggren, A, Keen, C., Eriksson, U, Fuhr, R., Carlsson, B. (2020). <a href="https://doi.org/10.1016/S2665-9913(19)30103-1">Effects of a selective glucocorticoid receptor modulator (AZD9567) versus prednisolone in healthy volunteers: two phase 1, single-blind, randomised controlled trials</a>, <i>Lancet Rheumatology</i>, 2(1), 31-41<br>  
-
-</p>
 
 </ol>
