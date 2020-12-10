@@ -8,7 +8,7 @@ author_profile: true
 <br>
 
 <b><font color="black"><h3>Working papers</h3></font></b>
-<li><b>Leander, J.</b>, Almquist, J., Johnning, A., Larsson, J., Jirstrand, M. (2020). <a href="https://arxiv.org/abs/2011.06879">NLMEModeling: A Wolfram Mathematica Package for Nonlinear Mixed Effects Modeling of Dynamical Systems</a>,<i>arXiv:2011.06879</i>
+<li><b>Leander, J.</b>, Almquist, J., Johnning, A., Larsson, J., Jirstrand, M. (2020). <a href="https://arxiv.org/abs/2011.06879">NLMEModeling: A Wolfram Mathematica Package for Nonlinear Mixed Effects Modeling of Dynamical Systems</a>, <i>arXiv:2011.06879</i>
 
 <b><font color="black"><h3>Peer-reviewed articles</h3></font></b>
 <li>Rekić, D., Johansson, S., <b>Leander, J.</b> (2020). <a href="https://doi.org/10.1007/s40262-020-00943-6">Higher Febuxostat Exposure Observed in Asian Compared with Caucasian Subjects Independent of Bodyweight</a>, <i>Clinical Pharmacokinetics</i><br>  
