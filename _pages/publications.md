@@ -22,5 +22,8 @@ author_profile: true
 <li><b>Leander, J.</b>, Lundh, T., Jirstrand, M. (2014). <a href="https://doi.org/10.1208/s12248-015-9718-8">Stochastic differential equations as a tool to regularize the parameter estimation problem for continuous time dynamical systems given discrete time measurements</a>, <i>Mathematical Biosciences</i>, 251, 54-62<br>  
 
 <b><font color="black"><h3>Theses</h3></font></b>
+
+
+<li><b>PhD thesis (2021). </b> <a href="https://research.chalmers.se/publication/523650/file/523650_Fulltext.pdf">Mixed Effects Modeling of Deterministic and Stochastic Dynamical Systems - Methods and Applications in Drug Development</a> <br>
 <li><b>Licentiate thesis (2014). </b> <a href="http://publications.lib.chalmers.se/records/fulltext/200981/200981.pdf">Contributions to nonlinear mixed-effects modeling</a> <br>
 <li><b>Master thesis (2012). </b> <a href="https://odr.chalmers.se/bitstream/20.500.12380/159989/1/159989.pdf">Optimal design of clinical studies using the PFIM software</a> <br>
