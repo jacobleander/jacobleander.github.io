@@ -14,6 +14,6 @@ I am passionate about mathematical modeling to support decision making in clinic
 
 **News**
 
-- 4 May 2021: PhD thesis will be defended on June 4 at 10.00 AM (Swedish time). For additional information, see [here](https://research.chalmers.se/publication?created=true&id=cf4f2558-62aa-4942-8a9c-8b8cbf458288) <br>
+- 4 May 2021: PhD thesis publised! The defense will take place on June 4 at 10.00 AM (Swedish time). For additional information, see [here](https://research.chalmers.se/publication/523650) <br>
 - 17 March 2021: New paper " A semi-mechanistic exposure–response model to assess the effects of verinurad, a potent URAT1 inhibitor, on serum and urine uric acid in patients with hyperuricemia-associated diseases", [https://doi.org/10.1007/s10928-021-09747-y](https://doi.org/10.1007/s10928-021-09747-y)	<br>
 - 13 November 2020: New paper "NLMEModeling: A Wolfram Mathematica Package for Nonlinear Mixed Effects Modeling of Dynamical Systems", [arxiv:2011.06879](https://arxiv.org/abs/2011.06879)
